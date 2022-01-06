@@ -1,4 +1,2 @@
-function()
-{
-	
-}
+package main()
+function main() {}
